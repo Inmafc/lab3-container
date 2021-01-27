@@ -1,0 +1,30 @@
+Medición de tiempo para k-mers de longitud 14
+Start
+Running k-mer14 with C++
+
+real	0m15,702s
+user	0m15,581s
+sys	0m0,007s
+Start
+
+Running k-mer14 with python
+
+real	42m7,803s
+user	41m38,461s
+sys	0m0,031s
+
+Medición de tiempo para k-mers de longitud 13
+Start
+
+Running	k-mer13	with C++
+
+real	0m3,941s
+user	0m3,906s
+sys	0m0,007s
+Start
+
+Running	k-mer13 with python 
+
+real	10m42,427s
+user	10m34,866s
+sys	0m0,025s

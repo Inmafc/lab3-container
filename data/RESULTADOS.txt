@@ -28,3 +28,32 @@ Running	k-mer13 with python
 real	10m42,427s
 user	10m34,866s
 sys	0m0,025s
+
+#########################RESULTADOS SINGULARITY#############################
+
+Running k-mers14 with C++ using the image python_latest.sif
+Start
+
+real    0m15,706s
+user    0m15,586s
+sys     0m0,006s
+Running k-mers14 with python using the image python_latest.sif
+Start
+
+real    43m10,816s
+user    42m40,840s
+sys     0m0,029s
+Running k-mers13 with C++ using the image python_latest.sif
+Start
+
+real    0m3,934s
+user    0m3,901s
+sys     0m0,005s
+Running k-mers13 with Python using the image python_latest.sif
+Start
+
+real    10m34,962s
+user    10m27,590s
+sys     0m0,029s
+
+

@@ -9,13 +9,13 @@
 
 #Medición del tiempo en lenguaje ++c y python
 echo Ejecutando k-mers14 con C++
-time ./k-mer14.cpp
+time ./k-mer14
 
 echo Ejucutando k-mers14 con python
 time ./k-mer14.py
 
 echo Ejecutando k-mers13 con C++
-time ./k-mer13.cpp
+time ./k-mer13
 
 echo Ejecutando k-mer13 con python
 time ./k-mer13.py
